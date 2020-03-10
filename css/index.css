@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+   }
+body {
+    background: #000;
+    overflow: hidden;
+}
+
+.firework {
+    position: absolute;
+    width: 10px;
+    height: 50px;
+    border-radius: 50%;
+    background:red;
+}
+.fires {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: lightseagreen;
+    border-radius: 50px;
+}
